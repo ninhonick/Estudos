@@ -17,6 +17,8 @@ public class Aula1 {
 	
 	System.out.println(nomeComplet);
 	
+	tcl.close();
+	
 	
 }
 
