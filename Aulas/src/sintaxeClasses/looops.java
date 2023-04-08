@@ -15,7 +15,7 @@ public class looops {
 			
 			nota = tcl.nextInt();
 		}
-		System.out.println("parabens você tem " + nota + " como nota atribuida");
+		System.out.println("parabens você tem ---> " + nota + " como nota atribuida");
 		
 		
 	}
